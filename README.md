@@ -1,2 +1,2 @@
 # PracticaBigotes
-repositoria de clases de reforzamiento
+repositorio de clases de reforzamiento
